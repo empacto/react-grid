@@ -1,9 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-## Table of Contents
+## Table of Contents: React-grid-by example:
+
+- how to built a grid based on bootstrap elements:
+
+1. [Load data](./wiki/grid/ConnectToData.md)
+2. [File structure](./wiki/grid/filestructure.md)
+3. [Display array in Grid](./wiki/grid/displayGrid.md)
+4. [Delete row button](./wiki/grid/deletrow.md)
+5. [Add checkbox - like button](./wiki/grid/AddLike.md)
+6. [Add pagination ](./wiki/grid/Paginate.md)
+7. [Add type checking ](./wiki/grid/typechecking.md)
+8. [Add Filtering ](./wiki/grid/Listgroup.md)
 
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
